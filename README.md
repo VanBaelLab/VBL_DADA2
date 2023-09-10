@@ -5,7 +5,7 @@ The pipeline below is mainly focused on DADA2 pipeline presented by Benjamin Cal
 To copy use:
 
 ```
-git clone https://github.com/VanBaelLab/VBL_DADA2_pipeline
+git clone https://github.com/VanBaelLab/VBL_DADA2
 ```
 
 or download repositories and files independently. 
