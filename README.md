@@ -6,6 +6,7 @@ To copy use:
 
 ```
 git clone https://github.com/VanBaelLab/VBL_DADA2_pipeline.git
+
 ```
 
 or download repositories and files independently. 
