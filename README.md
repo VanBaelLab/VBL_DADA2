@@ -10,5 +10,5 @@ git clone https://github.com/VanBaelLab/VBL_DADA2.git
 ```
 
 or download repositories and files independently. 
-Some of the repositories are empty and are there to guide you in how to organize this repository. 
-Feel free to ignore the .gitignore and .gitattribute files unless you want to contribute to this project.  
+
+Some of the repositories are empty and are there to guide you in how to organize this repository.
