@@ -13,7 +13,7 @@ git clone https://github.com/VanBaelLab/VBL_DADA2.git
 
 ```
 
-You can alsoe download repositories and files independently. 
+You can also download repositories and files independently. 
 Some of the repositories are empty and are there to guide you in how to organize this repository. 
 
 
